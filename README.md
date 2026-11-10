@@ -1,7 +1,7 @@
-# pear-calyx-research-protocol
+# Fruit Research Protocol (果品研究方法学开源参考框架)
 
-**An open-source methodological framework for causal inference and measurement in pear calyx (persistent vs. deciduous) research.**
-关于公母梨（宿萼与脱萼）差异研究的因果推断与测量开源参考框架。
+**An open-source methodological framework and protocol for fruit research, focusing on causal inference and measurement standards.**
+致力于果品科研方法学的开源参考框架与共识草案，涵盖因果推断、实验设计与理化测量规范。
 
 ---
 
@@ -30,7 +30,6 @@
 ### 📄 第二篇：一颗梨的公与母
 
 **文献标题：** 一颗梨的公与母：差异研究方法学的回溯与检视
-*(注：这是第一篇的深度回溯与检视版本)*
 
 👉 **[点击阅读全文](pear-persistent-vs-deciduous-calyx-review.md)**
 
@@ -48,9 +47,6 @@
 > 为什么不同文献里同一品种的“糖酸比”常常大相径庭？到底是用“可溶性固形物（SSC）”还是“总糖”作分子？分母的“酸”究竟是按苹果酸计，还是按柠檬酸计？
 > 
 > 糖酸比与固酸比，是果品风味评价与育种中最常用的核心指标。然而，在这些看似简单的除法背后，隐藏着极大的口径混乱与不可比性。如果不统一测量规程，不同研究产出的数据不过是互不相交的孤岛。
-> 
-> **一个比值的算式、口径、单位和全部制样参数，应使读者仅凭论文即可复算。**
-> **可比性的前提不是测得准，而是写得出。**
 
 👉 **[点击阅读全文](sugar-acid-ratio-guide.md)**
 
