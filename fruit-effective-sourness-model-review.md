@@ -1,12 +1,20 @@
-# 果品有效酸感建模与评价：一项基于化学形态与文献核查的方法学审视
+# 果品有效甜感建模与评价：一项基于糖谱形态与基质调制的方法学审视
 
-### ——梨果实有效酸感的定义、pH 测定规范与模型证伪
+### Modeling and Evaluation of Effective Sweetness in Fruit: A Methodological Review Based on Sugar Profile and Matrix Modulation
 
-**版本：** 果实有度·有效酸感 V1.0
-**文献类型：** 开源参考框架（Open Reference Framework）
-**关联文件：** 《糖酸比测量与评价：一项基于文献核查的方法学审视（果实有度 V1.0）》
-**发布日期：** 2026-11-11
+**——关于梨果实有效甜感定义、糖组分折算与模型证伪的开源参考框架**
+*(— An Open Reference Framework for the Definition of Effective Sweetness in Pear Fruit, Sugar Component Conversion, and Model Falsification)*
 
+*   **版本 (Version)：** 果实有度·有效甜感 V1.0
+*   **文献类型 (Document Type)：** 开源参考框架（Open Reference Framework）
+*   **发布日期 (Release Date)：** 2026-11-14 *(请根据实际修改)*
+*   **关联文件 (Related Files)：** 
+    *   [《糖酸比测量与评价：一项基于文献核查的方法学审视》](sugar-acid-ratio-guide.md)
+    *   [《果品有效酸感建模与评价》](fruit-effective-sourness-model-review.md)
+
+---
+
+*(此处粘贴正文内容)*
 ---
 
 ## 声明与边界
